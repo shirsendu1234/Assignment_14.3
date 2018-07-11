@@ -1,0 +1,4 @@
+first download the sales_Data.xml.
+then open excel 2016 
+click on inport
+then set as CSV file 
